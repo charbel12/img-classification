@@ -1,0 +1,5 @@
+train: C:/Users/DEV 15/Desktop/AI/dataset/images/train
+val: C:/Users/DEV 15/Desktop/AI/dataset/images/val
+
+nc: 1  # Number of classes
+names: ['cable']  # Class names
